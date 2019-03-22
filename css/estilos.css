@@ -1,0 +1,23 @@
+.menu
+{
+    background: #870000;
+    background: linear-gradient(to right, #190A05, #870000); 
+}
+
+.btn-menu
+{
+    color: #FFF;
+    font-size: 25px;
+}
+
+.nav-item
+{
+    color: #FFF;
+    cursor: pointer;
+}
+
+.icono-menu
+{
+    width: 50px;
+    height: 50px;
+}
