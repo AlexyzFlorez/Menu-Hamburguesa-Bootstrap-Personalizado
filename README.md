@@ -1,5 +1,5 @@
 # Menu-Hamburguesa-Bootstrap-Personalizado
-Menú hamburguesa de bootsrap personalizado.
+Menú hamburguesa de bootstrap personalizado.
 
 Capturas.
 
